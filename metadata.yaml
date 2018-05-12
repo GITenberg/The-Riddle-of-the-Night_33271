@@ -16,6 +16,8 @@ description: In The Riddle of the Night, renowned consulting detective Hamilton 
   is faced with a puzzling set of facts. A murder that transpired in the dark of night
   is accompanied by the scantest of clues, including a set of scrawled numbers and
   a scrap of paper. Can Cleek get to the bottom of this confounding case?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33271#The-Riddle-of-the-Night
 gutenberg_issued: '2010-07-27'
 gutenberg_type: Text
 identifiers:
