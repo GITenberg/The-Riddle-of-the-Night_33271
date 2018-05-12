@@ -1,0 +1,33 @@
+_repo: The-Riddle-of-the-Night_33271
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hanshew, Thomas W.
+    alias: Hanshew, T. W. (Thomas W.)
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '5480'
+    url: http://www.gutenberg.org/2009/agents/5480
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Hanshew
+description: In The Riddle of the Night, renowned consulting detective Hamilton Cleek
+  is faced with a puzzling set of facts. A murder that transpired in the dark of night
+  is accompanied by the scantest of clues, including a set of scrawled numbers and
+  a scrap of paper. Can Cleek get to the bottom of this confounding case?
+gutenberg_issued: '2010-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Cleek, Hamilton (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Murder -- Fiction'
+title: The Riddle of the Night
+url: http://www.gutenberg.org/ebooks/33271
